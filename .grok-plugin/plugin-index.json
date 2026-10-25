@@ -354,6 +354,36 @@
         ]
       }
     },
+    "evaboot": {
+      "sha": "b4312ddbbcae4632629053f6de4748b6af8fbadd",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "evaboot",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "define-icp-and-value-prop",
+            "description": "Use when the user wants to define who they sell to and what they offer, or to create or replace the Evaboot ICP and val…"
+          },
+          {
+            "name": "intent-detection",
+            "description": "Use when the user wants the last week of Sales Navigator alerts or intents for their leads and accounts."
+          },
+          {
+            "name": "qualify-leads",
+            "description": "Use when the user wants leads judged against their Evaboot ICP, including an export that just finished."
+          },
+          {
+            "name": "write-outreach-messages",
+            "description": "Use when the user wants a first LinkedIn message for a named person, from a profile or from an intent."
+          }
+        ]
+      }
+    },
     "exa": {
       "sha": "879fae0c814765c43f39ea8f56aae1d44e9d9bc8",
       "version": "1.1.0",

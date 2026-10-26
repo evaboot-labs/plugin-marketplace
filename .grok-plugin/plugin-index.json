@@ -355,8 +355,8 @@
       }
     },
     "evaboot": {
-      "sha": "b4312ddbbcae4632629053f6de4748b6af8fbadd",
-      "version": "1.0.0",
+      "sha": "37bb0d5944ab744235a67e62213eb2b70ccc5604",
+      "version": "1.2.0",
       "components": {
         "mcpServers": [
           {
@@ -365,6 +365,10 @@
           }
         ],
         "skills": [
+          {
+            "name": "build-pipeline",
+            "description": "Use when the user wants a lead generation system that keeps running - Sales Navigator saved searches with intent filter…"
+          },
           {
             "name": "define-icp-and-value-prop",
             "description": "Use when the user wants to define who they sell to and what they offer, or to create or replace the Evaboot ICP and val…"

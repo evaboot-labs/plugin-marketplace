@@ -489,12 +489,12 @@
     },
     {
       "name": "evaboot",
-      "description": "Evaboot turns LinkedIn Sales Navigator into a clean lead list (hosted MCP server + skills). Describe your audience in plain language to build the Sales Navigator search, export its leads and accounts, find and verify professional emails, schedule recurring exports, and push results to your CRM. Sign in with your Evaboot account; no API key needed.",
+      "description": "Evaboot turns LinkedIn Sales Navigator into a clean lead list (hosted MCP server + skills). Describe your audience in plain language to build the Sales Navigator search, export its leads and accounts, find and verify professional emails, and push results to your CRM. Set up a weekly pipeline that exports only new leads and feeds them to your outreach campaign. Sign in with your Evaboot account; no API key needed.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/evaboot-labs/evaboot-grok-plugin.git",
-        "sha": "b4312ddbbcae4632629053f6de4748b6af8fbadd"
+        "url": "https://github.com/evaboot-labs/evaboot-plugin.git",
+        "sha": "37bb0d5944ab744235a67e62213eb2b70ccc5604"
       },
       "homepage": "https://evaboot.com/mcp",
       "keywords": [
@@ -508,7 +508,7 @@
         "dash.evaboot.com",
         "mcp.evaboot.com"
       ],
-      "version": "1.0.0",
+      "version": "1.2.0",
       "author": {
         "name": "Evaboot",
         "email": "support@evaboot.com",
